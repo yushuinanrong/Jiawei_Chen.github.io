@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Jiawei Chen
+subtitle: PhD Candidate in Computer Vision
 ---
+Hello, I'm Jiawei Chen. I'm a forth-year PhD student at the Department of Electrical and Computer Engineering, Boston University, supervised by [Prof.Janusz Korand](https://www.bu.edu/eng/profile/janusz-konrad/) and [Prof.Prakash Ishwar](https://www.bu.edu/eng/profile/prakash-ishwar/). My research focuses on _privacy-preserving visual analysis of human activity_ using deep-learning/machine-learning methodolgies. 
 
-My name is Inigo Montoya. I have the following qualities:
+Before starting my PhD in 2015, I did my master at Duke University and undergraduate at Harbin Institute of Technology. I'm originally from Jiaxing, a beautiful city lying on the Grand Canal of China. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I like basketball and scoccer. My faverite sprot players are Cristiano Ronaldo and LeBron James. 
+I also enjoy reading and writing. My faviote writer is [Agatha Christie](https://en.wikipedia.org/wiki/Agatha_Christie).
 
-What else do you need?
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+
