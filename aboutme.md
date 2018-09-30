@@ -7,7 +7,7 @@ Hello, I'm Jiawei Chen. I'm a forth-year PhD student at the Department of Electr
 
 Before starting my PhD in 2015, I did my master at Duke University and undergraduate at Harbin Institute of Technology. I'm originally from Jiaxing, a beautiful city lying on the Grand Canal of China. 
 
-I like basketball and scoccer. My faverite sprot players are [Cristiano Ronaldo](https://en.wikipedia.org/wiki/Cristiano_Ronaldo) and [LeBron James](https://en.wikipedia.org/wiki/LeBron_James). 
+I like basketball and scoccer. My faverite sports players are [Cristiano Ronaldo](https://en.wikipedia.org/wiki/Cristiano_Ronaldo) and [LeBron James](https://en.wikipedia.org/wiki/LeBron_James). 
 I also enjoy reading and writing. My faviote writer is [Agatha Christie](https://en.wikipedia.org/wiki/Agatha_Christie).
 
 
